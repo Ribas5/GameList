@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(185, 229, 255);
+}
+.nav-extended{
+    background-image: url("imagens/fundo.jpg");
+    background-blend-mode:soft-light
+}
+nav ul li.active, .tab a.active{
+    border-bottom: solid 2px white;
+    background-color: transparent;
+}
